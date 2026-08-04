@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Sandeep Dharnia
 
-<!--
-**Sandeepdharnia/sandeepdharnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A Full-stack Developer also interested as Data Scientist from Zurich, Switzerland.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Banner Image or Quote](https://your-image-url.png)
+
+<div align="center">
+  <img src="https://your-avatar-url.png" alt="Profile" width="100" style="border-radius: 50%;">
+  
+  ### [Your Name]
+  
+  **[Your Title]**
+  
+  *[Your tagline]*
+  
+  [Your bio/description]
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/yourprofile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:your@email.com)
+  
+  Built with 💻 and ❤️
+  
+  📍 [City, Country] • [Date]
+
+</div>
+
+---
+
+## 📊 Profile Views
+![Views](https://komarev.com/ghpvc/?username=yourprofile)
