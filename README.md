@@ -15,7 +15,7 @@
       <tr>
         <td align="center" style="padding:1.2em 1em; color:#000000; font-family:Georgia, Palatino, 'Times New Roman', serif;">
           <p align="center">
-            <img src="assets/avatar.png" width="90" height="90" alt="Sandeep Dharnia" style="border-radius:50%; border:3px solid #cccccc;" />
+            <img src="assets/avatar_copy.png" width="90" height="90" alt="Sandeep Dharnia" style="border-radius:50%; border:3px solid #cccccc;" />
           </p>
           <p align="center"><strong>Sandeep Dharnia</strong></p>
           <p align="center"><em>Full Stack Developer & Data Scientist</em></p>
