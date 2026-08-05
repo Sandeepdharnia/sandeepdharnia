@@ -51,7 +51,7 @@
 
 ### 🔄 Now
 
-- 🚲 Building a bike registration database — working to solve a real operational issue faced by the project owners (details confidential for now)
+- 🚲 Building a bike registration database — working to solve a real operational issue faced by the project owners (work in progress...)
 
 ---
 
@@ -110,9 +110,11 @@
 
 ### 🧘 A bit more about me
 
-I like building and designing well-engineered software systems, eating Indian food and homemade veggie burgers. Once, I tried Pad Thai from all around the Greater Zurich area, but I still remember the one from Bali, Indonesia.
+I like building and designing well-engineered software systems, eating Indian food and homemade veggie burgers. 
+Once, I tried Pad Thai from all around the Greater Zurich area, but I still remember the one from Bali, Indonesia.
 
-Meditation and scuba diving are also part of my interests. I have listened to *The Autobiography of a Yogi* audiobook more than 350 times.
+# Meditation and scuba diving are also part of my interests. 
+# I have listened to *The Autobiography of a Yogi* audiobook more than 350 times.
 
 ---
 
