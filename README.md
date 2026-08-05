@@ -110,11 +110,12 @@
 
 ### 🧘 A bit more about me
 
-I like building and designing well-engineered software systems, eating Indian food and homemade veggie burgers. 
+I like building and designing well-engineered software systems, eating Indian food and homemade veggie burgers.
+
 Once, I tried Pad Thai from all around the Greater Zurich area, but I still remember the one from Bali, Indonesia.
 
-# Meditation and scuba diving are also part of my interests. 
-# I have listened to *The Autobiography of a Yogi* audiobook more than 350 times.
+Meditation and scuba diving are also part of my interests. <br />
+I have listened to *The Autobiography of a Yogi* audiobook more than 350 times.
 
 ---
 
