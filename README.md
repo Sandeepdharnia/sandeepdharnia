@@ -20,6 +20,7 @@
           <p align="center"><strong>Sandeep Dharnia</strong></p>
           <p align="center"><em>Full Stack Developer & Data Scientist</em></p>
           <p align="center"><em><span style="color:#0000cc;">Lets bring it to the optimum level</span></em></p>
+          <p align="center"><em>"Conversation, coffee, code = a solution — how about that?"</em></p>
           <p align="center">
             I love to build stuff, usually with code.<br />
             Always intrigued by technology and how it solves real problems.
@@ -70,7 +71,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🛠 Tech Stack
 
 > Tools, languages, and frameworks I use regularly
 
@@ -103,6 +104,7 @@
 <br />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jirasoftware&logoColor=white" />
+<img src="https://img.shields.io/badge/Scrum-172B4D?style=flat-square" />
 
 </div>
 
